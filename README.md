@@ -8,8 +8,7 @@ The aim of the Road Accident Severity Prediction project is to develop a machine
 1.1. Collect historical road accident data including features like weather conditions, road type, visibility, vehicle type, etc.
 
 1.2. Preprocess the data:
-   - Handle missing values (e.g., imputation or removal).
-   - 
+   - Handle missing values (e.g., imputation or removal). 
 # Step 2: Data Splitting
 2.1. Split the preprocessed data into training and testing sets.
 
