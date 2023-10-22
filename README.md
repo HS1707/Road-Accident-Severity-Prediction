@@ -8,6 +8,12 @@ The aim of the Road Accident Severity Prediction project is to develop a machine
 3.Repeat steps 1 and 2 for a large number of times, creating a forest of decision trees.
 4.To make a prediction on a new data point, calculate the prediction of each decision tree in the forest and take the average
 
+# Code:
+
+
+
+
+
 
 # Program
 http://148.100.109.54:38888/lab/tree/acc_severity_prediction.ipynb
