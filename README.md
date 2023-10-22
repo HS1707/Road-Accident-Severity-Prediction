@@ -92,4 +92,4 @@ This project has been a rewarding experience, allowing us to contribute to the i
 
 
 # Program
-Check it on above uploaded files where you can view the source code and implementattion of this project at acc_severity_prediction.ipynb
+Check it on above uploaded files where you can view the source code and implementation of this project at acc_severity_prediction.ipynb
