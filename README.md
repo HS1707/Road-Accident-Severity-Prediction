@@ -1,4 +1,4 @@
-# Road-Accident-Severity-Prediction -Cipher Hunters SEC37
+# Road-Accident-Severity-Prediction-Cipher Hunters SEC37
 # Aim
 The aim of the Road Accident Severity Prediction project is to develop a machine learning model to predict the severity of road accidents. The model can then be used to provide drivers with early warnings and to help authorities identify and address road safety hotspots.
 
@@ -9,4 +9,4 @@ The aim of the Road Accident Severity Prediction project is to develop a machine
 4.To make a prediction on a new data point, calculate the prediction of each decision tree in the forest and take the average
 
 # Program
-Check it on above uploaded files where you can view the source code and implementattion of this project acc_severity_prediction.ipynb
+Check it on above uploaded files where you can view the source code and implementattion of this project at acc_severity_prediction.ipynb
